@@ -1,5 +1,5 @@
 <h1> RS-IoT-Proj </h1>
-<p align="justify"> <b><i>DISCLAIMER:</i></b> Developed for the class of Sensor Networks. I have translated the python code presented in proj-code folder. All the images that I provide will appear in text in portuguese. Some items may appear partially finished. </p>
+<p align="justify"> <b><i>DISCLAIMER:</i></b> This project was solely developed by myself for the class of Sensor Networks. I have translated the python code presented in proj-code folder. All the images that I provide will appear in text in portuguese. Some items may appear partially finished. </p>
 
 <p align="justify"> With the code I provide, you won't be able to single-handedly replicate the project, but it is a great help for similar projects. </p>
 
